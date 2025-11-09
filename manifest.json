@@ -1,0 +1,10 @@
+{
+    "id": "redirect-plugin",
+    "name": "Redirect Plugin",
+    "version": "1.0.1",
+    "minAppVersion": "0.12.0",
+    "description": "Obsidian note redirect plugin.",
+    "author": "Denis Rozin",
+    "authorUrl": "https://github.com/refspec",
+    "isDesktopOnly": false
+}
